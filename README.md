@@ -1,2 +1,2 @@
 # OSM-Street-Network-Corrections-Attica
-Please see the Wiki page for details.
+Για περισσότερες πληροφορίες, παρακαλώ δείτε το "Wiki page".
