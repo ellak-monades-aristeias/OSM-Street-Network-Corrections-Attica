@@ -2,4 +2,4 @@
 Για περισσότερες πληροφορίες, παρακαλώ δείτε το "Wiki page".
 
 
-[Wiki](Wiki)
+[Wiki](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/wiki)
