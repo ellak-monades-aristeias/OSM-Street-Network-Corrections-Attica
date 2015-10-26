@@ -29,7 +29,7 @@
 
 Μπορείτε να [κατεβάσετε και από Dropbox τα παραδοτέα αρχεία](https://www.dropbox.com/sh/gnx81f1zytrbfdq/AACqHRXdpPdOy_GUzlT91JXGa?dl=0) του έργου. _Ορισμένα αρχεία λόγω του μεγέθους τους δεν στάθηκε δυνατόν να ανέβουν στο αποθετήριο του έργου._
 
-Δείτε περισσότερες λεπτομέρειες για τα Παραδοτέα [εδώ](Deliverables).
+Δείτε περισσότερες λεπτομέρειες για τα Παραδοτέα [εδώ](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/wiki/Deliverables).
 
 **Το υλικό του έργου αυτού διατίθεται υπό τις Άδειες:**
 - CC-BY-SA 4.0: Αρχεία διαδικασιών, πινάκων, κειμένων κλπ.
