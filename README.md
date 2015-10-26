@@ -28,7 +28,7 @@ https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica
 https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/blob/master/Script_Convert_Greek_to_Latin_ELOT743.7z
 
 - Shapefile Αττικής σε WGS'84:
-
+https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/blob/master/roads_corrected_wgs84_attiki.7z
 
 - Shapefile Αττικής σε ΕΓΣΑ'87:
 
