@@ -22,6 +22,8 @@
 
 Τα παραδοτέα αρχεία του έργου βρίσκονται στους εξής συνδέσμους:
 - Καταγραφή διαδικασιών:
+https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/blob/master/OSM_Street_Network_Corrections_Reports.7z
+
 - Scripts παραμετροποίησης:
 - Shapefile Αττικής σε WGS'84:
 - Shapefile Αττικής σε ΕΓΣΑ'87:
