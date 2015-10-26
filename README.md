@@ -31,6 +31,8 @@ https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica
 https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/blob/master/roads_corrected_wgs84_attiki.7z
 
 - Shapefile Αττικής σε ΕΓΣΑ'87:
+https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/blob/master/roads_corrected_ggrs87_attiki.7z
+
 
 
 Μπορείτε να [κατεβάσετε και από Dropbox τα παραδοτέα αρχεία](https://www.dropbox.com/sh/gnx81f1zytrbfdq/AACqHRXdpPdOy_GUzlT91JXGa?dl=0) του έργου. _Ορισμένα αρχεία λόγω του μεγέθους τους δεν στάθηκε δυνατόν να ανέβουν στο αποθετήριο του έργου._
