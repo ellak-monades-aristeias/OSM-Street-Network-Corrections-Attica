@@ -14,6 +14,8 @@
 
 Για περισσότερες πληροφορίες, παρακαλώ δείτε το [Wiki Page](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/wiki).
 
+Παρακολουθήστε το [προωθητικό βίντεο](https://www.youtube.com/watch?v=F8HNpRvpiGg) του έργου.
+
 Μπορείτε να καταχωρείτε ως [issues](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/issues) όποιες βελτιώσεις, δυσλειτουργίες, προτάσεις κλπ. έχετε εντοπίσει σχετικά με το έργο αυτό.
 
 Δείτε επίσης το έργο "Επεξεργασία δεδομένων του OpenStreetMap Project για χρήση από εφαρμογές GIS - Μέρος Β’: Επέκταση στην υπόλοιπη Ελλάδα ([OSM-Street-Network-Corrections-Greece](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Greece))", το οποίο αποτελεί επέκταση εφαρμογής του παρόντος.
