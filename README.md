@@ -48,10 +48,6 @@
 
 Τα παραπάνω αρχεία βρίσκονται στο archive: [_OSM_Street_Network_Corrections_Reports.7z_](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/blob/master/OSM_Street_Network_Corrections_Reports.7z)
 
-
-
-
-
 **Overview**
 
 The OpenStreetMap Project offers thorough street network data that can serve multiple needs. The detail of the data as well as its constant updating by a vast user community provide a very good background for applications concerning street networks.
@@ -61,13 +57,7 @@ However, this data in its raw form can't be used directly by a number of GIS app
 1. Absence of topological nodes in most of street junctions.
 2. Imperfections and discontinuities of street network classification.
 
-Στόχος του παρόντος έργου είναι η αντιμετώπιση των προβλημάτων αυτών, ώστε να καταστεί το οδικό δίκτυο του OSM περισσότερο αξιοποιήσιμο από εφαρμογές GIS, κάνοντας τις λιγότερες δυνατές διορθωτικές επεμβάσεις (editing). Για τον λόγο αυτό καταρτίστηκε εξειδικευμένη μεθοδολογία, υποβοηθούμενη από customization scripts, μέσα στο περιβάλλον του ελεύθερου open-source λογισμικού QGIS και εφαρμόστηκε πιλοτικά στην Περιφέρεια Αττικής.
-
-Υπάρχουν πολλά ακόμη που μπορούν να γίνουν ώστε να καταστεί ένα οδικό δίκτυο ακόμη πιο αξιοποιήσιμο από εφαρμογές GIS (όπως λεπτομερέστερη κατηγοριοποίηση των τόξων του δικτύου, εισαγωγή ειδικών περιορισμών κίνησης, τυποποίηση αναγραφών ονομασιών οδών κ.α.), εντούτοις σκοπός του παρόντος έργου είναι η αντιμετώπιση των δύο κυριότερων αδυναμιών που προαναφέρθηκαν.
-
-
-
-
+The aim of this project is to deal with these problems, in order to make the OSM street network more useful for GIS applications, while doing the least possible editing. To this end, a special methodology was formed, supported by customization scripts, within the environment of free open-source QGIS software and was initially applied in the district of Attica (Athens), Greece.
 
 Μπορείτε να [κατεβάσετε και από Dropbox τα παραδοτέα αρχεία](https://www.dropbox.com/sh/gnx81f1zytrbfdq/AACqHRXdpPdOy_GUzlT91JXGa?dl=0) του έργου. _Ορισμένα αρχεία λόγω του μεγέθους τους δεν στάθηκε δυνατόν να ανέβουν στο αποθετήριο του έργου._
 
