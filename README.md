@@ -50,7 +50,7 @@
 
 **Overview**
 
-The OpenStreetMap Project offers thorough street network data that can serve multiple needs. The detail of the data as well as its constant updating by a vast user community provide a very good background for applications concerning street networks.
+The OpenStreetMap Project offers thorough street network data that can serve multiple needs. The detail of the data as well as its constant updating by a vast community of users provide a very good background for applications concerning street networks.
 
 However, this data in its raw form can't be used directly by a number of GIS applications, like navigation applications, shortest path algorithms etc., because of some inherent problems, such as:
 
