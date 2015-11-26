@@ -54,14 +54,12 @@
 
 **Overview**
 
+The OpenStreetMap Project offers thorough street network data that can serve multiple needs. The detail of the data as well as its constant updating by a vast user community provide a very good background for applications concerning street networks.
 
+However, this data in its raw form can't be used directly by a number of GIS applications, such as navigation, shortest path applications etc., because of some inherent problems, like:
 
-Το OpenStreetMap Project παρέχει δεδομένα οδικού δικτύου με εκτενή γεωγραφική κάλυψη που μπορούν να εξυπηρετήσουν πολλαπλές ανάγκες. Η λεπτομέρεια των δεδομένων καθώς και η διαρκής ενημέρωσή τους από μία ευρεία κοινότητα χρηστών παρέχουν ένα πολύ καλό υπόβαθρο για εφαρμογές που σχετίζονται με οδικά συγκοινωνιακά δίκτυα.
-
-Ωστόσο, στην πρωτογενή τους μορφή τα δεδομένα αυτά δεν μπορούν να χρησιμοποιηθούν άμεσα από αρκετές εφαρμογές GIS, όπως εφαρμογές πλοήγησης, εύρεσης βέλτιστης διαδρομής κλπ., λόγω ορισμένων αδυναμιών που παρουσιάζουν, όπως:
-
-1. Μη ύπαρξη τοπολογικών κόμβων (nodes) στις περισσότερες διασταυρώσεις των αξόνων.
-2. Ατέλειες και ασυνέχειες της κατηγοριοποίησης των οδικών αξόνων.
+1. Absence of topological nodes in most of street junctions.
+2. Imperfections and discontinuities of street network classification.
 
 Στόχος του παρόντος έργου είναι η αντιμετώπιση των προβλημάτων αυτών, ώστε να καταστεί το οδικό δίκτυο του OSM περισσότερο αξιοποιήσιμο από εφαρμογές GIS, κάνοντας τις λιγότερες δυνατές διορθωτικές επεμβάσεις (editing). Για τον λόγο αυτό καταρτίστηκε εξειδικευμένη μεθοδολογία, υποβοηθούμενη από customization scripts, μέσα στο περιβάλλον του ελεύθερου open-source λογισμικού QGIS και εφαρμόστηκε πιλοτικά στην Περιφέρεια Αττικής.
 
