@@ -59,6 +59,6 @@ However, this data in its raw form can't be used directly by a number of GIS app
 
 The aim of this project is to rectify these problems, in order to make the OSM street network more useful for GIS applications, while making the least possible manual edits. To this end a special methodology was developed, supported by customization scripts, within the environment of free open-source QGIS software and was initially applied in the district of Attica (Athens), Greece.
 
-The deliverables of this project can be [downloaded from Dropbox](https://www.dropbox.com/sh/gnx81f1zytrbfdq/AACqHRXdpPdOy_GUzlT91JXGa?dl=0). _Some files could not be uploaded to the project's repository due to their size._
+The deliverables of this project can also be [downloaded from Dropbox](https://www.dropbox.com/sh/gnx81f1zytrbfdq/AACqHRXdpPdOy_GUzlT91JXGa?dl=0). _Some files could not be uploaded to the project's repository due to their size._
 
 You can also view the second part of this project ([OSM-Street-Network-Corrections-Greece](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Greece)), which extends its application to the whole of Greece.
